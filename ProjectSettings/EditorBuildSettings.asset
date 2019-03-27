@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/360Photosphere_Billiard_2018_03_27.unity
+    guid: 1ffc99e5a00d38849a48bdfc61476abf
+  - enabled: 1
+    path: Assets/Scenes/360Photosphere_Street_2018_03_27.unity
+    guid: f997a3ec88b589b409181db10d84bb68
   m_configObjects: {}
